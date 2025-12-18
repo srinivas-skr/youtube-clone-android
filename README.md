@@ -1,4 +1,4 @@
-# youtube-clone-android
+# Youtube-Clone-Android
 
 An Android app project that demonstrates a YouTube-style client, built with industry-standard tools and structure. This project is suitable for learning, portfolio, and HR review.
 
