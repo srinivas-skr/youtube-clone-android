@@ -1,3 +1,39 @@
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Logs, temp, cache, backups
+*.log
+*.tmp
+*.cache
+*.bak
+*.old
+*.swp
+
+# Build outputs
+/build/
+/out/
+/target/
+/dist/
+/app/build/
+/node_modules/
+/coverage/
+
+# IDE/editor settings
+.idea/
+.vscode/
+.settings/
+.classpath
+.project
+.metadata
+.gradle/
+
+# AI/IDE hidden data
+.ai-hidden/
+
+# Local config
+local.properties
+.env
 *.iml
 .gradle
 /local.properties
